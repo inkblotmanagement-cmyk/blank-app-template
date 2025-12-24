@@ -38,4 +38,8 @@ A simple Streamlit app template for you to modify!
 
    ```
    $ streamlit run streamlit_app.py
+ai-ethics, moral-governance, quantum-ethics, superintelligence, mindful-ai, global-abundance, self-perfection
+
+
+
    ```
